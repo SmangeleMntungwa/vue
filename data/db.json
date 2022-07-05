@@ -1,0 +1,25 @@
+{
+    "properties" : [
+       {
+         "title": "Modern Apartment" , 
+         "area": "Cape Town",
+          "bedrooms" :"5", 
+          "id":1
+        
+        },
+
+       { 
+        "title": "Revemt Apartment" , 
+        "area": "Joburg",
+         "bedrooms" :"4" , 
+         "id":2
+        },
+
+       {
+         "title": "Stylish Studio" ,
+          "area": "Durban",
+           "bedrooms" :"3", 
+           "id":3
+        } 
+    ]
+    }
